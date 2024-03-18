@@ -6,3 +6,5 @@ A.R.N.E. - autonomous robots ...
 - online since 16th Nov 2022
 - by coincidence the same day launched https://www.nasa.gov/specials/artemis/
 
+## ARNE02
+- planed start May 2024
