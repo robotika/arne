@@ -7,5 +7,5 @@ A.R.N.E. - autonomous robots ...
 - by coincidence the same day launched https://www.nasa.gov/specials/artemis/
 
 ## ARNE02
-### Hedera Kingdom
+### Hedera Helix Kingdom
 - started on 6th May 2024
